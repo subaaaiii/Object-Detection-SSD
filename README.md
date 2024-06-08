@@ -1,5 +1,5 @@
 
-# IOT on/off PWM
+# Object Detection - SSD
 
 ## Nama : Subairi
 ## NPM : 21081010019
